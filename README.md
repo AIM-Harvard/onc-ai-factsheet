@@ -5,12 +5,12 @@ Artificial intelligence (AI) systems—which consist of an AI algorithm and the 
 We have made a user-friendly, fillable template publicly available [here](Onc_AI_FactSheet_Template.pdf). Below, we provide instructions and examples for each field of the Fact Sheet. In addition, brief instructions are also included when you hover over fields in the template pdf.
 
 A note on style: This is not intended to be, nor can be, an exhaustive description of each AI system. Instead, developers should consider the most important information for the **clinical end-user** to understand before using the system. The text should be written in non-technical language wherever possible. There are opportunities to link out to additional information that provides more comprehensive information. 
+
+Our publication describing the fact sheet is available [here](https://jamanetwork.com/journals/jamaoncology/article-abstract/2802831).
 <br/><br/>
 ## Citation
-
 Bitterman DS, Kamal A, and Mak RH. An Oncology Artificial Intelligence Fact Sheet for Cancer Clinicians. JAMA Oncol. Published online March 23, 2023. doi:10.1001/jamaoncol.2023.0012 
 
-Paper available [here](https://jamanetwork.com/journals/jamaoncology/article-abstract/2802831).
 <br/><br/>
 ## Fully Completed Example
 Oncology AI Fact Sheet for the lung tumor auto-segmentation system reported in [Hosny et al. *Lancet Digital Health* 2020](https://pubmed.ncbi.nlm.nih.gov/36028289/).
