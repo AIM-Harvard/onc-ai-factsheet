@@ -8,7 +8,9 @@ A note on style: This is not intended to be, nor can be, an exhaustive descripti
 <br/><br/>
 ## Citation
 
-[Bitterman DS, Kamal A, and Mak RH. An Oncology Artificial Intelligence Fact Sheet for Cancer Clinicians. JAMA Oncol. Published online March 23, 2023. doi:10.1001/jamaoncol.2023.0012](https://jamanetwork.com/journals/jamaoncology/article-abstract/2802831)
+Bitterman DS, Kamal A, and Mak RH. An Oncology Artificial Intelligence Fact Sheet for Cancer Clinicians. JAMA Oncol. Published online March 23, 2023. doi:10.1001/jamaoncol.2023.0012 
+
+Paper available [here](https://jamanetwork.com/journals/jamaoncology/article-abstract/2802831).
 <br/><br/>
 ## Fully Completed Example
 Oncology AI Fact Sheet for the lung tumor auto-segmentation system reported in [Hosny et al. *Lancet Digital Health* 2020](https://pubmed.ncbi.nlm.nih.gov/36028289/).
