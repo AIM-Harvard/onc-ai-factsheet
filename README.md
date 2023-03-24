@@ -6,6 +6,10 @@ We have made a user-friendly, fillable template publicly available [here](Onc_AI
 
 A note on style: This is not intended to be, nor can be, an exhaustive description of each AI system. Instead, developers should consider the most important information for the **clinical end-user** to understand before using the system. The text should be written in non-technical language wherever possible. There are opportunities to link out to additional information that provides more comprehensive information. 
 <br/><br/>
+## Citation
+
+Bitterman DS, Kamal A, and Mak RH. An Oncology Artificial Intelligence Fact Sheet for Cancer Clinicians. JAMA Oncol. Published online March 23, 2023. doi:10.1001/jamaoncol.2023.0012.
+<br/><br/>
 ## Fully Completed Example
 Oncology AI Fact Sheet for the lung tumor auto-segmentation system reported in [Hosny et al. *Lancet Digital Health* 2020](https://pubmed.ncbi.nlm.nih.gov/36028289/).
 
