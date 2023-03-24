@@ -6,7 +6,7 @@ We have made a user-friendly, fillable template publicly available [here](Onc_AI
 
 A note on style: This is not intended to be, nor can be, an exhaustive description of each AI system. Instead, developers should consider the most important information for the **clinical end-user** to understand before using the system. The text should be written in non-technical language wherever possible. There are opportunities to link out to additional information that provides more comprehensive information. 
 
-Our publication describing the fact sheet is available **[here](https://jamanetwork.com/journals/jamaoncology/article-abstract/2802831).
+Our publication describing the fact sheet is available **[here]**(https://jamanetwork.com/journals/jamaoncology/article-abstract/2802831).
 
 Please cite our work as: Bitterman DS, Kamal A, and Mak RH. An Oncology Artificial Intelligence Fact Sheet for Cancer Clinicians. JAMA Oncol. Published online March 23, 2023. doi:10.1001/jamaoncol.2023.0012 
 <br/><br/>
